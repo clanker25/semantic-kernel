@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "description": "",
+  "execution_settings": {
+    "default": {
+      "max_tokens": 1024,
+      "temperature": 1.8,
+      "top_p": 0.0,
+      "presence_penalty": 1.0,
+      "frequency_penalty": 1.0
+    }
+  }
+}
